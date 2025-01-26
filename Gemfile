@@ -30,7 +30,7 @@ gem "elasticsearch", "~> 7.16"
 # gem "rack-cors"
 
 group :development do
-  gem "pry", "~> 0.14.2"
+  gem "pry", "~> 0.15.2"
 end
 
 group :development, :test do
